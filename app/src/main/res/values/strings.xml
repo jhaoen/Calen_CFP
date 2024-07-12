@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CalenCFP</string>
+
+    <string name="TextView">Textview</string>
+    <string name="cfps">CFPS</string>
+    <string-array name="options">
+        <item>Login</item>
+        <item>Search</item>
+        <item>Popular Category</item>
+        <item>My List</item>
+    </string-array>
+    <string-array name="year">
+        <item>請選擇</item>
+        <item>all</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+    <string-array name="month">
+        <item>請選擇</item>
+        <item>all</item>
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="select_year">
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+    <string name="submit">submit</string>
+    <string name="prompt">請選擇頁面</string>
+    <string name="addtocalender">加入我的google calender</string>
+    <string name="success">活動建立成功</string>
+    <string name="fail">活動建立失敗</string>
+    <string name="recommandWebsite">相關領域論文連結</string>
+</resources>
